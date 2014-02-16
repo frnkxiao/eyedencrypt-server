@@ -1,0 +1,5 @@
+Feb 15, 2014
+- Https
+- Incorporate nonce, signature and other ways for security.
+- Add Logs.
+- Add Email confirmation.
